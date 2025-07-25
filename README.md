@@ -5,5 +5,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/wasifnaqi/SQL/tree/master/0180-consecutive-numbers) |
+| [1390-average-selling-price](https://github.com/wasifnaqi/SQL/tree/master/1390-average-selling-price) |
 | [3828-analyze-organization-hierarchy](https://github.com/wasifnaqi/SQL/tree/master/3828-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
