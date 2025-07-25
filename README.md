@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/wasifnaqi/SQL/tree/master/0180-consecutive-numbers) |
 | [3828-analyze-organization-hierarchy](https://github.com/wasifnaqi/SQL/tree/master/3828-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
