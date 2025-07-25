@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/wasifnaqi/SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0610-triangle-judgement](https://github.com/wasifnaqi/SQL/tree/master/0610-triangle-judgement) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/wasifnaqi/SQL/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/wasifnaqi/SQL/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/wasifnaqi/SQL/tree/master/1390-average-selling-price) |
 | [3828-analyze-organization-hierarchy](https://github.com/wasifnaqi/SQL/tree/master/3828-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
