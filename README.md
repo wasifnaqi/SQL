@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0610-triangle-judgement](https://github.com/wasifnaqi/SQL/tree/master/0610-triangle-judgement) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/wasifnaqi/SQL/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/wasifnaqi/SQL/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1338-queries-quality-and-percentage](https://github.com/wasifnaqi/SQL/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/wasifnaqi/SQL/tree/master/1390-average-selling-price) |
 | [3828-analyze-organization-hierarchy](https://github.com/wasifnaqi/SQL/tree/master/3828-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
