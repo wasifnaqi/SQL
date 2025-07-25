@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0197-rising-temperature](https://github.com/wasifnaqi/SQL/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/wasifnaqi/SQL/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/wasifnaqi/SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/wasifnaqi/SQL/tree/master/0585-investments-in-2016) |
 | [0610-triangle-judgement](https://github.com/wasifnaqi/SQL/tree/master/0610-triangle-judgement) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/wasifnaqi/SQL/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/wasifnaqi/SQL/tree/master/1327-last-person-to-fit-in-the-bus) |
