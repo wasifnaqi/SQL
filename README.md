@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/wasifnaqi/SQL/tree/master/0180-consecutive-numbers) |
+| [0197-rising-temperature](https://github.com/wasifnaqi/SQL/tree/master/0197-rising-temperature) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/wasifnaqi/SQL/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1390-average-selling-price](https://github.com/wasifnaqi/SQL/tree/master/1390-average-selling-price) |
 | [3828-analyze-organization-hierarchy](https://github.com/wasifnaqi/SQL/tree/master/3828-analyze-organization-hierarchy) |
