@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1338-queries-quality-and-percentage](https://github.com/wasifnaqi/SQL/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/wasifnaqi/SQL/tree/master/1390-average-selling-price) |
 | [3828-analyze-organization-hierarchy](https://github.com/wasifnaqi/SQL/tree/master/3828-analyze-organization-hierarchy) |
+## Array
+|  |
+| ------- |
+| [1206-corporate-flight-bookings](https://github.com/wasifnaqi/SQL/tree/master/1206-corporate-flight-bookings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1206-corporate-flight-bookings](https://github.com/wasifnaqi/SQL/tree/master/1206-corporate-flight-bookings) |
 <!---LeetCode Topics End-->
