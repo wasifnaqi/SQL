@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1206-corporate-flight-bookings](https://github.com/wasifnaqi/SQL/tree/master/1206-corporate-flight-bookings) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/wasifnaqi/SQL/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
