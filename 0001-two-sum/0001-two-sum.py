@@ -7,5 +7,5 @@ class Solution:
                     ans = [i,j]
                     ans = ans[::-1]
                     return ans               
-        return []    
+            
         
