@@ -8,6 +8,7 @@ class Solution:
                 else:
                     if nums[j] == value:
                         ans = [i,j]
-                        ans = ans[::-1]                
+                        ans = ans[::-1]
+                        break               
         return ans    
         
