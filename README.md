@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/wasifnaqi/SQL/tree/master/0001-two-sum) |
 | [1206-corporate-flight-bookings](https://github.com/wasifnaqi/SQL/tree/master/1206-corporate-flight-bookings) |
 ## Prefix Sum
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/wasifnaqi/SQL/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/wasifnaqi/SQL/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
