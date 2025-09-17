@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/wasifnaqi/SQL/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/wasifnaqi/SQL/tree/master/0004-median-of-two-sorted-arrays) |
 | [1206-corporate-flight-bookings](https://github.com/wasifnaqi/SQL/tree/master/1206-corporate-flight-bookings) |
 ## Prefix Sum
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wasifnaqi/SQL/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/wasifnaqi/SQL/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/wasifnaqi/SQL/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
