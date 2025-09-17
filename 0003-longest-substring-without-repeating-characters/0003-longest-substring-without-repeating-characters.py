@@ -10,7 +10,9 @@ class Solution:
                 char_set.remove(s[start])
                 start += 1
             char_set.add(s[i])
-            count = max(count, i - start + 1)
+            if count < i-start+1:
+                count= i - start + 1
+            # count = max(count, i - start + 1)
 
         return count
         
